@@ -1,1 +1,5 @@
-package my_go_utils_test
+package util
+
+func add(a, b int) int {
+	return a + b
+}
